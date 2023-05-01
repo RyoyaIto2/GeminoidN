@@ -6,13 +6,127 @@
 			"GeminoidN_new.8192/texture_00.png"
 		],
 		"Physics": "GeminoidN_new.physics3.json",
-		"DisplayInfo": "GeminoidN_new.cdi3.json"
+		"DisplayInfo": "GeminoidN_new.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "default",
+				"File": "../../motion/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "nomal1",
+				"File": "../../motion/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "happy11-1",
+				"File": "../../motion/Joy/Joy_01.exp3.json"
+			},{
+				"Name": "happy11-2",
+				"File": "../../motion/Joy/Joy_02.exp3.json"
+			},{
+				"Name": "happy11-3",
+				"File": "../../motion/Joy/Joy_03.exp3.json"
+			},{
+				"Name": "happy11-4",
+				"File": "../../motion/Joy/Joy_04.exp3.json"
+			},{
+				"Name": "happy11-5",
+				"File": "../../motion/Joy/Joy_05.exp3.json"
+			},{
+				"Name": "happy11-6",
+				"File": "../../motion/Joy/Joy_06.exp3.json"
+			},{
+				"Name": "happy11-7",
+				"File": "../../motion/Joy/Joy_07.exp3.json"
+			},{
+				"Name": "happy11-8",
+				"File": "../../motion/Joy/Joy_08.exp3.json"
+			},{
+				"Name": "happy11-9",
+				"File": "../../motion/Joy/Joy_09.exp3.json"
+			},{
+				"Name": "happy11-10",
+				"File": "../../motion/Joy/Joy_10.exp3.json"
+			},{
+				"Name": "anger11-1",
+				"File": "../../motion/Anger/Anger_01.exp3.json"
+			},{
+				"Name": "anger11-2",
+				"File": "../../motion/Anger/Anger_02.exp3.json"
+			},{
+				"Name": "anger11-3",
+				"File": "../../motion/Anger/Anger_03.exp3.json"
+			},{
+				"Name": "anger11-4",
+				"File": "../../motion/Anger/Anger_04.exp3.json"
+			},{
+				"Name": "anger11-5",
+				"File": "../../motion/Anger/Anger_05.exp3.json"
+			},{
+				"Name": "anger11-6",
+				"File": "../../motion/Anger/Anger_06.exp3.json"
+			},{
+				"Name": "anger11-7",
+				"File": "../../motion/Anger/Anger_07.exp3.json"
+			},{
+				"Name": "anger11-8",
+				"File": "../../motion/Anger/Anger_08.exp3.json"
+			},{
+				"Name": "anger11-9",
+				"File": "../../motion/Anger/Anger_09.exp3.json"
+			},{
+				"Name": "anger11-10",
+				"File": "../../motion/Anger/Anger_10.exp3.json"
+			}
+	],
+	"Motions":{
+			"Idle": [
+
+			],
+			"Dislike": [
+				{
+					"File": "../../motion/Anger/Anger_10.exp3.json"
+				}
+			],
+			"Like": [
+				{
+					"File": "../../motion/Joy/Joy_05.exp3.json"
+				}
+			],
+			"Love": [
+				{
+					"File": "../../motion/Joy/Joy_10.exp3.json"
+				}
+			],
+			"Normal": [
+				{
+					"File": "../../motion/Joy/Joy_01.exp3.json"
+				}
+			],
+			"StartSpeak":[
+				{
+					"File": "../../motion/Joy/Joy_01.exp3.json"
+				}
+			],
+			"Bow":[
+				{
+					"File": "../../motion/bow_backward/bow.motion3.json"
+				}
+			],
+			"All":[
+				{
+					"File": "../../motion/Joy/Joy_01.exp3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
-			"Ids": []
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
 		},
 		{
 			"Target": "Parameter",
