@@ -107,61 +107,21 @@
 				"Name": "sad11-10",
 				"File": "../../motion/Sad/Sad_10.exp3.json"
 			}
-	],
-	"Motions":{
-			"Idle": [
-
-			],
-			"Dislike": [
-				{
-					"File": "../../motion/Anger/Anger_10.exp3.json"
-				}
-			],
-			"Like": [
-				{
-					"File": "../../motion/Joy/Joy_05.exp3.json"
-				}
-			],
-			"Love": [
-				{
-					"File": "../../motion/Joy/Joy_10.exp3.json"
-				}
-			],
-			"Normal": [
-				{
-					"File": "../../motion/Joy/Joy_01.exp3.json"
-				}
-			],
-			"StartSpeak":[
-				{
-					"File": "../../motion/Joy/Joy_01.exp3.json"
-				}
-			],
-			"Bow":[
-				{
-					"File": "../../motion/bow_backward/bow.motion3.json"
-				}
-			],
-			"All":[
-				{
-					"File": "../../motion/Joy/Joy_01.exp3.json"
-				}
-			]
-		}
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		}
-	]
+		],
+		"Groups": [
+			{
+				"Target": "Parameter",
+				"Name": "EyeBlink",
+				"Ids": [
+					"ParamEyeLOpen",
+					"ParamEyeROpen"
+				]
+			},
+			{
+				"Target": "Parameter",
+				"Name": "LipSync",
+				"Ids": []
+			}
+		]
+	}
 }
