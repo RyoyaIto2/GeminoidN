@@ -2,18 +2,12 @@
 	"Version": 3,
 	"FileReferences": {
 		"Moc": "GeminoidN_new.moc3",
-		"Textures": [
-			"GeminoidN_new.8192/texture_00.png"
-		],
+		"Textures": ["GeminoidN_new.8192/texture_00.png"],
 		"Physics": "GeminoidN_new.physics3.json",
 		"DisplayInfo": "GeminoidN_new.cdi3.json",
 		"Expressions": [
 			{
 				"Name": "default",
-				"File": "../../motion/Joy/Joy_01.exp3.json"
-			},
-			{
-				"Name": "normal1",
 				"File": "../../motion/Joy/Joy_01.exp3.json"
 			},
 			{
@@ -46,7 +40,8 @@
 			},{
 				"Name": "happy11-10",
 				"File": "../../motion/Joy/Joy_10.exp3.json"
-			},{
+			},
+			{
 				"Name": "anger11-1",
 				"File": "../../motion/Anger/Anger_01.exp3.json"
 			},{
@@ -76,7 +71,8 @@
 			},{
 				"Name": "anger11-10",
 				"File": "../../motion/Anger/Anger_10.exp3.json"
-			},{
+			},
+			{
 				"Name": "sad11-1",
 				"File": "../../motion/Sad/Sad_01.exp3.json"
 			},{
