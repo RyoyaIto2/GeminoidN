@@ -73,6 +73,11 @@
 				"File": "../../motion/Sad/Sad_10.exp3.json"
 			}
 		],
+		"Motions":{
+				"Idle":[
+
+				]
+		},
 		"Groups": [
 			{
 				"Target": "Parameter",
