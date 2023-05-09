@@ -77,21 +77,21 @@
 				"Idle":[
 
 				]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
 		},
-		"Groups": [
-			{
-				"Target": "Parameter",
-				"Name": "EyeBlink",
-				"Ids": [
-					"ParamEyeOpenL",
-					"ParamEyeOpenR"
-				]
-			},
-			{
-				"Target": "Parameter",
-				"Name": "LipSync",
-				"Ids": []
-			}
-		]
-	}
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
 }
