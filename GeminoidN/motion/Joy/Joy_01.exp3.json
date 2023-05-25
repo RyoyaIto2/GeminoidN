@@ -25,6 +25,16 @@
 			"Id": "ParamMouth_Happy",
 			"Value": 0.1,
 			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"Value": 1,
+			"Blend": "Add"
 		}
 	]
 }
