@@ -33,7 +33,7 @@
 		},
 		{
 			"Id": "ParamEyeBallY",
-			"Value": 0.15,
+			"Value": -0.2,
 			"Blend": "Add"
 		}
 	]
