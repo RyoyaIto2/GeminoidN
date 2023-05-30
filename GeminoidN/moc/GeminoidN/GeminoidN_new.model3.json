@@ -9,10 +9,6 @@
 		"DisplayInfo": "GeminoidN_new.cdi3.json",
 		"Expressions": [
 			{
-				"Name":"neutral",
-				"File":"../../motion/Joy/Joy_01.exp3.json"
-			},
-			{
 				"Name": "joy11-1",
 				"File": "../../motion/Joy/Joy_01.exp3.json"
 			},
