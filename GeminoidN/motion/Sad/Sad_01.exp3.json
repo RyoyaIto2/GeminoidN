@@ -27,12 +27,12 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamEyeBallX",
+			"Id": "ParamEyeOpenL",
 			"Value": 0,
 			"Blend": "Add"
 		},
 		{
-			"Id": "ParamEyeBallY",
+			"Id": "ParamEyeOpenR",
 			"Value": 0,
 			"Blend": "Add"
 		}
