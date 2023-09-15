@@ -252,12 +252,12 @@
 		"Motions":{
 			"Joy01":[
 				{
-					"File":"motion/Joy01.motion3.json"
+					"File":"motion/motions/Joy01.motion3.json"
 				}
 			],
 			"Sad01":[
 				{
-					"File":"motion/Sad01.motion3.json"
+					"File":"motion/motions/Sad01.motion3.json"
 				}
 			]
 			
