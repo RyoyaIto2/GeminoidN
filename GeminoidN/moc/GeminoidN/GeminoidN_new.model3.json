@@ -248,7 +248,20 @@
 				"Name": "surprised11-10",
 				"File": "../../motion/Surprised/Surprised_10.exp3.json"
 			}
-		]
+		],
+		"Motions":{
+			"Joy01":[
+				{
+					"File":"motion/Joy01.motion3.json"
+				}
+			],
+			"Sad01":[
+				{
+					"File":"motion/Sad01.motion3.json"
+				}
+			]
+			
+		}
 	},
 	"Groups": [
 		{
