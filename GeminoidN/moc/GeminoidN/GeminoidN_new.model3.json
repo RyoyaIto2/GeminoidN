@@ -250,17 +250,11 @@
 			}
 		],
 		"Motions":{
-			"Joy01":[
+			"waiting":[
 				{
 					"File":"../../motion/waiting/EyeBlink.motion3.json"
 				}
-			],
-			"Sad01":[
-				{
-					"File":"../../motion/waiting/EyeBlink.motion3.json"
-				}
-			]
-			
+			]	
 		}
 	},
 	"Groups": [
