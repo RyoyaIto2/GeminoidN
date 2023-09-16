@@ -252,12 +252,12 @@
 		"Motions":{
 			"Joy01":[
 				{
-					"File":"../../motion/waiting/01.motion3.json"
+					"File":"../../motion/waiting/EyeBlink.motion3.json"
 				}
 			],
 			"Sad01":[
 				{
-					"File":"../../motion/waiting/02.motion3.json"
+					"File":"../../motion/waiting/EyeBlink.motion3.json"
 				}
 			]
 			
